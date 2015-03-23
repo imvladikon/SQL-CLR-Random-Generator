@@ -1,0 +1,9 @@
+c:\users\администратор\documents\visual studio 2013\Projects\Database1\Database1\bin\Debug\Database1.dacpac
+c:\users\администратор\documents\visual studio 2013\Projects\Database1\Database1\bin\Debug\Database1.dll
+c:\users\администратор\documents\visual studio 2013\Projects\Database1\Database1\bin\Debug\Database1.pdb
+c:\users\администратор\documents\visual studio 2013\Projects\Database1\Database1\obj\Debug\Model.xml
+c:\users\администратор\documents\visual studio 2013\Projects\Database1\Database1\obj\Debug\refactor.xml
+c:\users\администратор\documents\visual studio 2013\Projects\Database1\Database1\obj\Debug\postdeploy.sql
+c:\users\администратор\documents\visual studio 2013\Projects\Database1\Database1\obj\Debug\predeploy.sql
+c:\users\администратор\documents\visual studio 2013\Projects\Database1\Database1\obj\Debug\Database1.dll
+c:\users\администратор\documents\visual studio 2013\Projects\Database1\Database1\obj\Debug\Database1.pdb

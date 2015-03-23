@@ -1,0 +1,9 @@
+c:\users\администратор\documents\visual studio 2013\Projects\Database1\Database1\bin\Release\SqlRandomNumberGenerator.dacpac
+c:\users\администратор\documents\visual studio 2013\Projects\Database1\Database1\bin\Release\SqlRandomNumberGenerator.dll
+c:\users\администратор\documents\visual studio 2013\Projects\Database1\Database1\bin\Release\SqlRandomNumberGenerator.pdb
+c:\users\администратор\documents\visual studio 2013\Projects\Database1\Database1\obj\Release\Model.xml
+c:\users\администратор\documents\visual studio 2013\Projects\Database1\Database1\obj\Release\refactor.xml
+c:\users\администратор\documents\visual studio 2013\Projects\Database1\Database1\obj\Release\postdeploy.sql
+c:\users\администратор\documents\visual studio 2013\Projects\Database1\Database1\obj\Release\predeploy.sql
+c:\users\администратор\documents\visual studio 2013\Projects\Database1\Database1\obj\Release\SqlRandomNumberGenerator.dll
+c:\users\администратор\documents\visual studio 2013\Projects\Database1\Database1\obj\Release\SqlRandomNumberGenerator.pdb
